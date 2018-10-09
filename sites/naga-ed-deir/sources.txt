@@ -7,4 +7,5 @@ Image Locations:
 
 Info Sources:
 
-  -
+  - lat/long http://digitalassets.lib.berkeley.edu/etd/ucb/text/Kroenke_berkeley_0028E_10892.pdf
+  - Caroline Peck 1958 -> tomb decoration?
