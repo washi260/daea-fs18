@@ -1,7 +1,7 @@
 Image Locations:
 
-  1.
-  2.
+  1. tombs (b&w site photograph) "Tombs at Naga_ed_Deir" by Jeff Howry through Harvard Semitic Museum
+  2. letter to the dead (see jstor article for citation)
   3.
   4.
 
@@ -9,3 +9,4 @@ Info Sources:
 
   - lat/long http://digitalassets.lib.berkeley.edu/etd/ucb/text/Kroenke_berkeley_0028E_10892.pdf
   - Caroline Peck 1958 -> tomb decoration?
+  - Simpson, William Kelly. “A Late Old Kingdom Letter to the Dead from Nag' Ed-Deir N 3500.” The Journal of Egyptian Archaeology, vol. 56, 1970, pp. 58–64. JSTOR, JSTOR, www.jstor.org/stable/3856042.
