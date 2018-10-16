@@ -1,0 +1,34 @@
+Map Intro (100 words)
+
+Naga ed-Deir is a large mortuary site that was primarily excavated between 1900 and 1925 by George Reisner, an American archaeologist. Despite a high degree of disturbance, the tombs there can be placed in the Old Kingdom through the Middle Kingdom (including the first intermediate period) thanks to pottery and scarab seriation.
+
+Introduction
+
+Physical Context
+  - upper Egypt
+  - between Luxor and Abydos
+  - east of the Nile
+  - Lat/Long -> 26.3778, 31.9028
+  - high degree of disturbance
+
+Site Description
+  - cemetery in use from Old Kingdom through the Middle Kingdom
+  - some evidence for familial use into the early New Kingdom
+  - four phases of 62 tombs (ordered by earliest burial)
+    - D6-8, I1 - D9-11, D11-12, D12-13/17
+
+Excavations
+  - early 20th century by Reisner
+  - scarabs -> seriation
+  - pottery seriation as well
+  - jewelry for dating
+  - Reisner pushed site photography
+
+Significance
+  - data for mortuary practices in old and middle Kingdoms
+  - tomb models
+  - mummy masks
+
+
+
+Conclusion
