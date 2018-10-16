@@ -32,37 +32,77 @@
 
   <body>
 
-
+      
      <!-- cenralized navbar -->
     <div id="central-nav"></div>
 
     <!-- Begin page content -->
-
+      
      <div id="detail">
-      <h1>Kerma</h1>
-      <h3>2500BC-1500BC</h3>
-	  <h4>Desir&eacute;e Quinn</h4>
+      <h1>SITE NAME</h1>
+      <h3>TIME PERIOD</h3>
+	  <h4>AUTHOR</h4>
          <h3>FIRST SECTION HEADING</h3>
 		 <hr><!--this draws a line across the page, which I put under each section heading in the example-->
 		 <p>Paragraph text goes between these</p>
 		 <br><!--this creates a break, to separate things a little better-->
 
-        <h3>FIRST SECTION HEADING</h3>
-     <hr><!--this draws a line across the page, which I put under each section heading in the example-->
-     <p>Paragraph text goes between these</p>
-     <br><!--this creates a break, to separate things a little better-->
 
-        <h3>FIRST SECTION HEADING</h3>
-      <hr><!--this draws a line across the page, which I put under each section heading in the example-->
-      <p>Paragraph text goes between these</p>
-      <br><!--this creates a break, to separate things a little better-->
 
-        <h3>FIRST SECTION HEADING</h3>
-      <hr><!--this draws a line across the page, which I put under each section heading in the example-->
-      <p>Paragraph text goes between these</p>
-      <br><!--this creates a break, to separate things a little better-->
+		 <!--this is the required <a href> beginning tag for inline reference popups (remove its comment wrap)-->
+		 <!--<a href="#" rel="citation" data-toggle="popover" data-content="">-->
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+	</div>
+     
+       <br>
+         <br>
 
-        <h3>FIRST SECTION HEADING</h3>
-      <hr><!--this draws a line across the page, which I put under each section heading in the example-->
-      <p>Paragraph text goes between these</p>
-      <br><!--this creates a break, to separate things a little better-->
+   <!-- centralized footer -->  
+    <div id="central-foot">
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../JS/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("a[rel=citation]").popover({
+				placement : 'top'
+			}).click(function (p) {
+				p.preventDefault();
+				var $self = $(this);
+				setTimeout(function () {
+					$self.popover('hide');
+				}, 4000);
+			});
+		});
+	</script>
+        
+         <!-- Calls centralized navbar -->
+    <script src="../../centralize-nav-foot/sites-nav-foot.js"></script> 
+        
+	</body></html>
