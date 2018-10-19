@@ -1,6 +1,6 @@
 Map Intro (100 words)
 
-Naga ed-Deir is a large mortuary site that was primarily excavated between 1900 and 1925 by George Reisner, an American archaeologist. Despite a high degree of disturbance, the tombs there can be placed in the Old Kingdom through the Middle Kingdom (including the first intermediate period) thanks to pottery and scarab seriation.
+Naga ed-Deir is a large mortuary site that was primarily excavated between 1900 and 1925 by George Reisner, an American archaeologist who was a pioneer in archaeological photography. Despite a high degree of disturbance, the tombs there can be placed in the Old Kingdom through the Middle Kingdom (including the first intermediate period) thanks to pottery and scarab seriation. It is one of few mortuary sites east of the Nile, yet Naga ed-Deir has served as a database for Old Kingdom tomb models and trends. Among the artifacts found at Naga ed-Deir are two letters to the dead which have shed light on the relationship between the living and their dead relatives.
 
 Introduction
 
@@ -28,6 +28,7 @@ Significance
   - data for mortuary practices in old and middle Kingdoms
   - tomb models
   - mummy masks
+  - letter to the dead
 
 
 
