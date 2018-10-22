@@ -103,3 +103,45 @@
 
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget malesuada tortor. Praesent pellentesque consectetur tempor. Mauris vitae nisl pulvinar, vulputate lacus in, consequat justo. Fusce pellentesque tellus nulla, eu porta felis posuere varius. Integer gravida, velit eget tincidunt condimentum, nisi augue sodales dolor, fermentum porta nisi sem a quam. Cras iaculis pellentesque odio in volutpat. Mauris ut sem a ipsum iaculis viverra. In hac habitasse platea dictumst.</p>
       <br><!--this creates a break, to separate things a little better-->
+	     
+	     
+	     
+
+
+
+
+
+
+
+	</div>
+
+       <br>
+         <br>
+
+   <!-- centralized footer -->
+    <div id="central-foot">
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../JS/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("a[rel=citation]").popover({
+				placement : 'top'
+			}).click(function (p) {
+				p.preventDefault();
+				var $self = $(this);
+				setTimeout(function () {
+					$self.popover('hide');
+				}, 4000);
+			});
+		});
+	</script>
+
+         <!-- Calls centralized navbar -->
+    <script src="../../centralize-nav-foot/sites-nav-foot.js"></script>
+
+	</body></html>	     
