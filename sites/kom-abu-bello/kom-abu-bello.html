@@ -143,3 +143,37 @@
   <p>“Relief of Ptolemy I Offering to Hathor.” Museum of Fine Arts, Boston, 22 Sept. 2018, www.mfa.org/collections/object/relief-of-ptolemy-i-offering-to-hathor-45951.</p>
   <p>“Terenouthis, Egypt.” Mission | U-M LSA Museum of Anthropological Archaeology, lsa.umich.edu/kelsey/research/past-field-projects/terenouthis-egypt.html.</p>
   <p>“Encyclopedia of the Archaeology of Ancient Egypt.” Edited by Kathryn A. Bard, Google Books, Routledge Taylor & Francis Group, 1999.</p>
+
+
+</div>
+
+     <br>
+       <br>
+
+ <!-- centralized footer -->
+  <div id="central-foot">
+
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="../JS/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("a[rel=citation]").popover({
+      placement : 'top'
+    }).click(function (p) {
+      p.preventDefault();
+      var $self = $(this);
+      setTimeout(function () {
+        $self.popover('hide');
+      }, 4000);
+    });
+  });
+</script>
+
+       <!-- Calls centralized navbar -->
+  <script src="../../centralize-nav-foot/sites-nav-foot.js"></script>
+
+</body></html>
