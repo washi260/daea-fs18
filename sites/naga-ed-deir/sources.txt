@@ -10,6 +10,7 @@ Info Sources:
   - lat/long http://digitalassets.lib.berkeley.edu/etd/ucb/text/Kroenke_berkeley_0028E_10892.pdf
   - Caroline Peck 1958 -> tomb decoration?
   - Simpson, William Kelly. “A Late Old Kingdom Letter to the Dead from Nag' Ed-Deir N 3500.” The Journal of Egyptian Archaeology, vol. 56, 1970, pp. 58–64. JSTOR, JSTOR, www.jstor.org/stable/3856042.
+  https://www.archeonil.fr/revue/AN18-2008-Podzorski.pdf
 
   Citations:
 
@@ -18,3 +19,5 @@ Info Sources:
   Tombs: "Tombs at Naga_ed_Deir." Harvard Scholar - Jeff Howry, PhD. Harvard Semitic Museum, May 2016, static.scholar.harvard.edu/files/styles/media_gallery_large/public/jhowry/files/lyon_030_full_trim_naga_ed_der_web.jpg?m=1466373967&itok=CrJT-9wk.
 
   Letter to the Dead: Simpson, William Kelly. “A Late Old Kingdom Letter to the Dead from Nag' Ed-Deir N 3500.” The Journal of Egyptian Archaeology, vol. 56, 1970, pp. 58–64. JSTOR, JSTOR, www.jstor.org/stable/3856042
+
+  Wilkinson, Toby A. H. “Early Dynastic Egypt.” 1999. Web. 13 Nov. 2018.
