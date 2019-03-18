@@ -1,4 +1,4 @@
-Digital Atlas of Egyptian Archaeology (2016)
+Digital Atlas of Egyptian Archaeology (2018)
 ====
 
 Main project at https://msu-anthropology.github.io/daea/
